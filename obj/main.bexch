@@ -1,0 +1,25 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\Adam\Desktop\lol\default.gpr
+20181013111720
+[BOUND OBJECT FILES]
+C:\Users\Adam\Desktop\lol\obj\bufor.o
+C:\Users\Adam\Desktop\lol\obj\konsument.o
+C:\Users\Adam\Desktop\lol\obj\producent.o
+C:\Users\Adam\Desktop\lol\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\Adam\Desktop\lol\obj\
+-LC:\Users\Adam\Desktop\lol\obj\
+-LD:/gnat/2018/lib/gcc/x86_64-pc-mingw32/7.3.1/adalib/
+-static
+-static-libgcc
+D:/gnat/2018/lib/gcc/x86_64-pc-mingw32/7.3.1/adalib/libgnarl.a
+D:/gnat/2018/lib/gcc/x86_64-pc-mingw32/7.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
